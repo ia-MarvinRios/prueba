@@ -1,0 +1,10 @@
+# Archivos binarios
+*.png binary
+*.jpg binary
+*.gif binary
+
+# Normalizar los finales de línea
+* text=auto
+
+# Configuración de fusión personalizada para archivos JSON
+*.json merge=union
